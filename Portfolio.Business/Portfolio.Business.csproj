@@ -24,4 +24,8 @@
     <ProjectReference Include="..\Portfolio.Entity\Portfolio.Entity.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="ValidationRules\" />
+  </ItemGroup>
+
 </Project>

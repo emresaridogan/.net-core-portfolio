@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Portfolio.DataAccess.EntityFramework
 {
-    public class EfPortfolyoDal : GenericRepository<Portfolyo>, IPortfolyo
+    public class EfPortfolyoDal : GenericRepository<Portfolyo>, IPortfolyoDal
     {
     }
 }
