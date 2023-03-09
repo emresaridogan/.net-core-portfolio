@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FI2eER1xnOf9z0pev87KKHCxLr4DV6f6Fv7SVwr2S2zXxTlrjCJ0DgHhxURf1QBFWRG/bMTt0p/Ir5UXBcOfGg==",
+  "dgSpecHash": "sRrJJQJITslfDoSsVl35z0DrA9cZbVEWbExdIW7Du/KDgN/yrkRZGbwQ70eHhXxtLF+O+Glnye1FTN9GdtsaWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emresaridogan\\source\\repos\\portfolio\\Portfolio.DataAccess\\Portfolio.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\emresaridogan\\source\\repos\\.net-core-portfolio\\Portfolio.DataAccess\\Portfolio.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emresaridogan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\emresaridogan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

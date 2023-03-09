@@ -12,6 +12,12 @@ namespace Portfolio.Business.Concrete
     public class PortfolyoManager : IPortfolyoService
     {
         IPortfolyoDal _portfolyoDal;
+
+        public PortfolyoManager(IPortfolyoDal portfolyoDal)
+        {
+            _portfolyoDal = portfolyoDal;
+        }
+
         public void TAdd(Portfolyo entity)
         {
             _portfolyoDal.Insert(entity);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3hnYWFhXf7fhf/O+kIVpfaHfBso2ZXPzXm4zBcdIFIPS6H2ONLkuMtFjrSqQKOdf/2u0ZsvJswGwNWRMuizQhA==",
+  "dgSpecHash": "dxUMulg1jqq30CWTkgsYbgtTWvaFVP6P1o0EMPwpiJBJb67ED0bcqcHjhHmu97m78BA9YFXLG95eX9vshM1NkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emresaridogan\\source\\repos\\portfolio\\Portfolio.Entity\\Portfolio.Entity.csproj",
+  "projectFilePath": "C:\\Users\\emresaridogan\\source\\repos\\.net-core-portfolio\\Portfolio.Entity\\Portfolio.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emresaridogan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\emresaridogan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

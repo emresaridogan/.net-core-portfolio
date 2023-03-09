@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emresaridogan\\source\\repos\\portfolio\\Portfolio.Entity\\Portfolio.Entity.csproj": {}
+    "C:\\Users\\emresaridogan\\source\\repos\\.net-core-portfolio\\Portfolio.Entity\\Portfolio.Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emresaridogan\\source\\repos\\portfolio\\Portfolio.Entity\\Portfolio.Entity.csproj": {
+    "C:\\Users\\emresaridogan\\source\\repos\\.net-core-portfolio\\Portfolio.Entity\\Portfolio.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emresaridogan\\source\\repos\\portfolio\\Portfolio.Entity\\Portfolio.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\emresaridogan\\source\\repos\\.net-core-portfolio\\Portfolio.Entity\\Portfolio.Entity.csproj",
         "projectName": "Portfolio.Entity",
-        "projectPath": "C:\\Users\\emresaridogan\\source\\repos\\portfolio\\Portfolio.Entity\\Portfolio.Entity.csproj",
+        "projectPath": "C:\\Users\\emresaridogan\\source\\repos\\.net-core-portfolio\\Portfolio.Entity\\Portfolio.Entity.csproj",
         "packagesPath": "C:\\Users\\emresaridogan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emresaridogan\\source\\repos\\portfolio\\Portfolio.Entity\\obj\\",
+        "outputPath": "C:\\Users\\emresaridogan\\source\\repos\\.net-core-portfolio\\Portfolio.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emresaridogan\\AppData\\Roaming\\NuGet\\NuGet.Config",

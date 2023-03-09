@@ -9,37 +9,85 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Portfolio.Presentetion
 build_property.RootNamespace = Portfolio.Presentetion
-build_property.ProjectDir = C:\Users\emresaridogan\source\repos\portfolio\portfolio\
+build_property.ProjectDir = C:\Users\emresaridogan\source\repos\.net-core-portfolio\portfolio\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\emresaridogan\source\repos\portfolio\portfolio
+build_property.MSBuildProjectDirectory = C:\Users\emresaridogan\source\repos\.net-core-portfolio\portfolio
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/emresaridogan/source/repos/portfolio/portfolio/Views/Home/Index.cshtml]
+[C:/Users/emresaridogan/source/repos/.net-core-portfolio/portfolio/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emresaridogan/source/repos/.net-core-portfolio/portfolio/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emresaridogan/source/repos/portfolio/portfolio/Views/Home/Privacy.cshtml]
+[C:/Users/emresaridogan/source/repos/.net-core-portfolio/portfolio/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emresaridogan/source/repos/portfolio/portfolio/Views/Shared/Error.cshtml]
+[C:/Users/emresaridogan/source/repos/.net-core-portfolio/portfolio/Views/Shared/Components/AboutSection/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWJvdXRTZWN0aW9uXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emresaridogan/source/repos/.net-core-portfolio/portfolio/Views/Shared/Components/ContactDetailsSection/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29udGFjdERldGFpbHNTZWN0aW9uXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emresaridogan/source/repos/.net-core-portfolio/portfolio/Views/Shared/Components/ExperienceSection/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRXhwZXJpZW5jZVNlY3Rpb25cRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emresaridogan/source/repos/.net-core-portfolio/portfolio/Views/Shared/Components/IntroductionSection/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSW50cm9kdWN0aW9uU2VjdGlvblxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emresaridogan/source/repos/.net-core-portfolio/portfolio/Views/Shared/Components/NavbarSection/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmF2YmFyU2VjdGlvblxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emresaridogan/source/repos/.net-core-portfolio/portfolio/Views/Shared/Components/PortfolyoSection/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUG9ydGZvbHlvU2VjdGlvblxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emresaridogan/source/repos/.net-core-portfolio/portfolio/Views/Shared/Components/SendMessageSection/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VuZE1lc3NhZ2VTZWN0aW9uXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emresaridogan/source/repos/.net-core-portfolio/portfolio/Views/Shared/Components/ServiceSection/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VydmljZVNlY3Rpb25cRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emresaridogan/source/repos/.net-core-portfolio/portfolio/Views/Shared/Components/SkillSection/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2tpbGxTZWN0aW9uXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emresaridogan/source/repos/.net-core-portfolio/portfolio/Views/Shared/Components/SocialMediaList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU29jaWFsTWVkaWFMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emresaridogan/source/repos/.net-core-portfolio/portfolio/Views/Shared/Components/TestimonialSection/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGVzdGltb25pYWxTZWN0aW9uXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emresaridogan/source/repos/.net-core-portfolio/portfolio/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emresaridogan/source/repos/portfolio/portfolio/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/emresaridogan/source/repos/.net-core-portfolio/portfolio/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emresaridogan/source/repos/portfolio/portfolio/Views/_ViewImports.cshtml]
+[C:/Users/emresaridogan/source/repos/.net-core-portfolio/portfolio/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emresaridogan/source/repos/portfolio/portfolio/Views/_ViewStart.cshtml]
+[C:/Users/emresaridogan/source/repos/.net-core-portfolio/portfolio/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emresaridogan/source/repos/portfolio/portfolio/Views/Shared/_Layout.cshtml]
+[C:/Users/emresaridogan/source/repos/.net-core-portfolio/portfolio/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-k4lhkpvwbm

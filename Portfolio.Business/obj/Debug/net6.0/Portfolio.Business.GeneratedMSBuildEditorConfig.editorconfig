@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Portfolio.Business
-build_property.ProjectDir = C:\Users\emresaridogan\source\repos\portfolio\Portfolio.Business\
+build_property.ProjectDir = C:\Users\emresaridogan\source\repos\.net-core-portfolio\Portfolio.Business\

@@ -13,5 +13,7 @@ namespace Portfolio.Entity.Concrete
         public int PortfolioID { get; set; }
         public string Name { get; set; }
         public string ImageURL { get; set; }
+        public string Url { get; set; }
+        public string ImageURL2 { get; set; }
     }
 }

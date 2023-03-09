@@ -2060,11 +2060,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emresaridogan\\source\\repos\\portfolio\\Portfolio.Business\\Portfolio.Business.csproj",
+      "projectUniqueName": "C:\\Users\\emresaridogan\\source\\repos\\.net-core-portfolio\\Portfolio.Business\\Portfolio.Business.csproj",
       "projectName": "Portfolio.Business",
-      "projectPath": "C:\\Users\\emresaridogan\\source\\repos\\portfolio\\Portfolio.Business\\Portfolio.Business.csproj",
+      "projectPath": "C:\\Users\\emresaridogan\\source\\repos\\.net-core-portfolio\\Portfolio.Business\\Portfolio.Business.csproj",
       "packagesPath": "C:\\Users\\emresaridogan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emresaridogan\\source\\repos\\portfolio\\Portfolio.Business\\obj\\",
+      "outputPath": "C:\\Users\\emresaridogan\\source\\repos\\.net-core-portfolio\\Portfolio.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emresaridogan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2081,11 +2081,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\emresaridogan\\source\\repos\\portfolio\\Portfolio.DataAccess\\Portfolio.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\emresaridogan\\source\\repos\\portfolio\\Portfolio.DataAccess\\Portfolio.DataAccess.csproj"
+            "C:\\Users\\emresaridogan\\source\\repos\\.net-core-portfolio\\Portfolio.DataAccess\\Portfolio.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\emresaridogan\\source\\repos\\.net-core-portfolio\\Portfolio.DataAccess\\Portfolio.DataAccess.csproj"
             },
-            "C:\\Users\\emresaridogan\\source\\repos\\portfolio\\Portfolio.Entity\\Portfolio.Entity.csproj": {
-              "projectPath": "C:\\Users\\emresaridogan\\source\\repos\\portfolio\\Portfolio.Entity\\Portfolio.Entity.csproj"
+            "C:\\Users\\emresaridogan\\source\\repos\\.net-core-portfolio\\Portfolio.Entity\\Portfolio.Entity.csproj": {
+              "projectPath": "C:\\Users\\emresaridogan\\source\\repos\\.net-core-portfolio\\Portfolio.Entity\\Portfolio.Entity.csproj"
             }
           }
         }
