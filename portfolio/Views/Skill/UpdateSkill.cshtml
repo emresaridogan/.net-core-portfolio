@@ -1,0 +1,39 @@
+﻿@model Portfolio.Entity.Concrete.Skill
+
+@{
+    ViewData["Title"] = "UpdateSkill";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@*<div class="row container-fluid">
+    <div class="col">
+        <br>
+        <h1>@ViewBag.v1</h1>
+        <form class="form-group" method="post">
+            <label>Yetenek Başlığı</label><br>
+            <input class="form-control" style="color: black" placeholder="" type="text" name="Title" value="@Model.Title"><br>
+            <label>Değer</label><br>
+            <input class="form-control" style="color: black" placeholder="" type="text" name="Value "value="@Model.Value"><br>
+
+            <button class="btn-primary btn">Güncelle</button>
+        </form>
+    </div>
+</div>*@
+
+
+<div class="row container-fluid">
+    <div class="col">
+        <br>
+        <h1>@ViewBag.v1</h1>
+        @using (Html.BeginForm("UpdateSkill","Skill",FormMethod.Post))
+        {
+            @Html.HiddenFor(x => x.SkillID)
+            @Html.Label("Yetenek Başlığı")
+            @Html.TextBoxFor(x => x.Title, new { @class = "form-control"})
+            @Html.Label("Değer")
+            @Html.TextBoxFor(x => x.Value, new { @class = "form-control"})
+            <button class="btn-primary btn">Güncelle</button>
+
+        }
+    </div>
+</div>
