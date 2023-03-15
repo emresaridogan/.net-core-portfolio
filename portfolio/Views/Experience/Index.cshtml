@@ -1,0 +1,62 @@
+﻿@using Portfolio.Entity.Concrete
+@model List<Experience>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="card-header border-0">
+    <h3 class="mb-0">Deneyim Listesi Tablosu</h3>
+</div>
+<div class="row">
+    <div class="col">
+        <div class="card shadow">
+            <div class="table-responsive">
+                <table class="table align-items-center table-flush">
+                    <thead class="thead-light">
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Başlık</th>
+                            <th scope="col">Açıklama</th>
+                            <th scope="col">Resim</th
+                            <th scope="col">Sil</th>
+                            <th scope="col">Düzenle</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <th>
+                                   @item.ExperienceID
+
+                                </th>
+                                <td>
+                                    @item.Title
+                                </td>
+
+                                <td>
+                                   @item.Description
+                                </td>
+                                <td>
+                                    <img src="@item.ImageURL" width="48" height="48" alt="">
+                                </td>
+                                <td>
+                                    <a href="/Experience/DeleteExperience/@item.ExperienceID" class="btn btn-danger">Sil</a>
+                                </td>
+                                <td>
+                                    <a href="/Experience/UpdateExperience/@item.ExperienceID" class="btn btn-warning">Güncelle</a>
+
+                                </td>
+
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                <a href="/Experience/AddExperience/" class="btn btn-primary">Deneyim Ekle</a>
+
+            </div>
+
+        </div>
+    </div>
+</div>
